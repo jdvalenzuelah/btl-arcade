@@ -1,0 +1,1 @@
+{"mappings":"AAAA,MAAMA,UAAY,CACdC,KAAM,oBACNC,QAAS,uBACTC,OAAQ","sources":["src/juggle/resources.js"],"sourcesContent":["const resources = {\n    ball: './assets/ball.png',\n    scorebg: './assets/scorebg.png',\n    footer: './assets/footer.png'\n}"],"names":["resources","ball","scorebg","footer"],"version":3,"file":"index.c70dd571.js.map"}

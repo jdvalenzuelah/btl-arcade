@@ -1,0 +1,1 @@
+{"mappings":"AAAA,MAAMA,UAAY,CACdC,eAAgB,mBAChBC,wBAAyB","sources":["src/kick/resources.js"],"sourcesContent":["const resources = {\n    accuracyBarImg: './assets/bar.png',\n    accuracyMovingObjectImg: './assets/bar-ball.png',\n}\n"],"names":["resources","accuracyBarImg","accuracyMovingObjectImg"],"version":3,"file":"index.7dbf0cc2.js.map"}
